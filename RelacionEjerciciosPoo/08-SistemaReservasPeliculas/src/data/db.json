@@ -1,0 +1,64 @@
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "titulo": "Inception",
+        "año": 2010,
+        "director": "Christopher Nolan"
+      },
+      {
+        "id": 2,
+        "titulo": "The Shawshank Redemption",
+        "año": 1994,
+        "director": "Frank Darabont"
+      },
+      {
+        "id": 3,
+        "titulo": "Pulp Fiction",
+        "año": 1994,
+        "director": "Quentin Tarantino"
+      },
+      {
+        "id": 4,
+        "titulo": "The Dark Knight",
+        "año": 2008,
+        "director": "Christopher Nolan"
+      },
+      {
+        "id": 5,
+        "titulo": "Fight Club",
+        "año": 1999,
+        "director": "David Fincher"
+      },
+      {
+        "id": 6,
+        "titulo": "Forrest Gump",
+        "año": 1994,
+        "director": "Robert Zemeckis"
+      },
+      {
+        "id": 7,
+        "titulo": "The Godfather",
+        "año": 1972,
+        "director": "Francis Ford Coppola"
+      },
+      {
+        "id": 8,
+        "titulo": "The Matrix",
+        "año": 1999,
+        "director": "Lana Wachowski, Lilly Wachowski"
+      },
+      {
+        "id": 9,
+        "titulo": "Parasite",
+        "año": 2019,
+        "director": "Bong Joon-ho"
+      },
+      {
+        "id": 10,
+        "titulo": "Interstellar",
+        "año": 2014,
+        "director": "Christopher Nolan"
+      }
+    ]
+  }

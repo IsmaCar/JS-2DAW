@@ -1,0 +1,16 @@
+{
+  "name": "07-gestionusuariosapi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "ejercicio": "json-server --watch src/data/db.json --port 3000"
+  },
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
